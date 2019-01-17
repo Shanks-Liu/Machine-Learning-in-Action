@@ -33,4 +33,3 @@ L2正则化易于求导，简化计算，更加常用
 L1正则化能得到较稀疏的解，但缺点是不易求导<br/><br/>
 
 <img src="images/微信图片_20181206161111.png">
-![图片](https://github.com/Shanks-Liu/Regression/raw/master/images/微信图片_20181206161111.png)

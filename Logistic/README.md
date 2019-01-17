@@ -6,6 +6,6 @@ __缺点__： 容易欠拟合，分类精度可能不高
 __使用数据类型__： 数值型和标称型数据  
 
 
-<img src="Images/logistic回归.png">
-<img src="Images/对数最大似然函数.png" style="width:800px;height:300px;">
-<img src="Images/后向传播.png" style="width:800px;height:300px;">
+<img src="Images/logistic回归.jpg">
+<img src="Images/对数最大似然函数.jpg" style="width:800px;height:300px;">
+<img src="Images/后向传播.jpg" style="width:800px;height:300px;">
